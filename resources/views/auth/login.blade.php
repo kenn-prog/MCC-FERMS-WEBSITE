@@ -44,7 +44,6 @@
             </button>
         </form>
 
-        <div class="hint">Prototype demo: emails starting with “admin” open the Admin interface; any other @mcc.edu.ph email opens the Student interface.</div>
         <p class="mut center" style="margin:0">Only authorized MCC accounts may access {{ config('ferms.name') }}.</p>
     </div>
 </div>
